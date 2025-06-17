@@ -23,6 +23,11 @@ This project demonstrates a modern approach to applied NLP, integrating a powerf
 
 ---
 
+## 👥 Authors
+
+- 👨‍💻 [@naeemullah-datascientist](https://github.com/naeemullah-datascientist) (Full-stack integration, backend orchestration, optimization)
+- 👨‍💻 [@shoaib1522](https://github.com/shoaib1522) (Initial architecture, model integration)
+
 ## 📖 Project Overview
 
 **NeuroNLP** is a sophisticated full-stack application designed to deconstruct and score human language. It goes beyond simple sentiment analysis by providing a multi-faceted evaluation of text, reflecting cognitive attributes like clarity of thought, semantic richness, and grammatical structure.
