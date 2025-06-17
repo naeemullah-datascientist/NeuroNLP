@@ -25,8 +25,8 @@ This project demonstrates a modern approach to applied NLP, integrating a powerf
 
 ## 👥 Authors
 
-- 👨‍💻 [@naeemullah-datascientist](https://github.com/naeemullah-datascientist) (Full-stack integration, backend orchestration, optimization)
-- 👨‍💻 [@shoaib1522](https://github.com/shoaib1522) (Initial architecture, model integration)
+- 👨‍💻 [@naeemullah-datascientist](https://github.com/naeemullah-datascientist) 
+- 👨‍💻 [@shoaib1522](https://github.com/shoaib1522) 
 
 ## 📖 Project Overview
 
